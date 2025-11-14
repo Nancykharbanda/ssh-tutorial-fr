@@ -1,0 +1,70 @@
+# Fichiers SSH sensibles - NE JAMAIS COMMITTER
+*.pem
+*.ppk
+*.key
+id_rsa
+id_rsa.pub
+id_ed25519
+id_ed25519.pub
+id_ecdsa
+id_ecdsa.pub
+known_hosts
+authorized_keys
+config
+
+# Clés privées avec différents formats
+*.priv
+*.private
+*_key
+*_rsa
+*_ed25519
+
+# Fichiers système
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Éditeurs et IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*~
+.project
+.classpath
+.settings/
+
+# Fichiers de backup
+*.bak
+*.tmp
+*.temp
+*.old
+*.orig
+
+# Logs
+*.log
+logs/
+
+# Archives (peuvent contenir des clés)
+*.tar.gz
+*.zip
+*.rar
+*.7z
+
+# Environnements virtuels (si scripts Python)
+venv/
+env/
+.env
+
+# Node modules (si outils Node.js)
+node_modules/
+
+# Cache
+.cache/
+__pycache__/
