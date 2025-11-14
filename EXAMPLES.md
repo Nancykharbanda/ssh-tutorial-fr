@@ -4,12 +4,12 @@ Ce document présente des cas d'usage concrets et des scénarios réels d'utilis
 
 ## 📑 Table des matières
 
-- [Développement Web](#développement-web)
-- [Administration système](#administration-système)
-- [DevOps et automatisation](#devops-et-automatisation)
-- [Sécurité et tunneling](#sécurité-et-tunneling)
-- [Gestion de bases de données](#gestion-de-bases-de-données)
-- [Développement avec Git](#développement-avec-git)
+- [Développement Web](#-d%C3%A9veloppement-web)
+- [Administration système](#%EF%B8%8F-administration-syst%C3%A8me)
+- [DevOps et automatisation](#-devops-et-automatisation)
+- [Sécurité et tunneling](#-s%C3%A9curit%C3%A9-et-tunneling)
+- [Gestion de bases de données](#%EF%B8%8F-gestion-de-bases-de-donn%C3%A9es)
+- [Développement avec Git](#-d%C3%A9veloppement-avec-git)
 
 ---
 
@@ -479,7 +479,7 @@ EOF
 
 ---
 
-**📧 Contact :** NDXDev@gmail.com
-**📚 Retour au tutoriel :** [README.md](README.md)
+- **📧 Contact :** NDXDev@gmail.com
+- **📚 Retour au tutoriel :** [README.md](README.md)
 
 

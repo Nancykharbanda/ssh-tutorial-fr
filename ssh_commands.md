@@ -2,15 +2,15 @@
 
 ## 📑 Table des matières
 
-- [Génération et gestion des clés](#génération-et-gestion-des-clés)
-- [Connexions SSH](#connexions-ssh)
-- [Agent SSH](#agent-ssh)
-- [Transfert de fichiers](#transfert-de-fichiers)
-- [Tunneling et Port Forwarding](#tunneling-et-port-forwarding)
-- [Gestion des hôtes connus](#gestion-des-hôtes-connus)
-- [Sécurité et surveillance](#sécurité-et-surveillance)
-- [Gestion du serveur SSH](#gestion-du-serveur-ssh)
-- [Diagnostic et dépannage](#diagnostic-et-dépannage)
+- [Génération et gestion des clés](#-g%C3%A9n%C3%A9ration-et-gestion-des-cl%C3%A9s)
+- [Connexions SSH](#-connexions-ssh)
+- [Agent SSH](#-agent-ssh)
+- [Transfert de fichiers](#-transfert-de-fichiers)
+- [Tunneling et Port Forwarding](#-tunneling-et-port-forwarding)
+- [Gestion des hôtes connus](#-gestion-des-h%C3%B4tes-connus)
+- [Sécurité et surveillance](#%EF%B8%8F-s%C3%A9curit%C3%A9-et-surveillance)
+- [Gestion du serveur SSH](#-gestion-du-serveur-ssh)
+- [Diagnostic et dépannage](#-diagnostic-et-d%C3%A9pannage)
 
 ---
 
@@ -791,5 +791,5 @@ tar -xzf ssh_backup_20250114.tar.gz -C ~/
 
 ---
 
-**📧 Contact :** NDXDev@gmail.com
-**📚 Retour au tutoriel :** [README.md](README.md)
+- **📧 Contact :** NDXDev@gmail.com
+- **📚 Retour au tutoriel :** [README.md](README.md)
